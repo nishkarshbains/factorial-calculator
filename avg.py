@@ -1,7 +1,4 @@
 #program for calculating factorial
-from re import I
-
-
 print("enter the number")
 o = int(input())
 p = 1
